@@ -48,3 +48,9 @@ SQL: Consultas diseñadas para base SQLite. Se puede correr en DBeaver o DB Brow
 Python: Código en Colab o Jupyter Notebook. Requiere pandas, mlxtend y faker.
 
 Power BI: Archivos .pbix conectados a CSVs/outputs generados.
+
+## 📥 Descarga del archivo Power BI
+
+Debido al tamaño del archivo `.pbix`, lo subí a Google Drive. Podés descargarlo desde el siguiente enlace:
+
+👉 [Descargar Dashboard Power BI]([https://drive.google.com/uc?id=TU_ID&export=download](https://drive.google.com/drive/u/0/folders/167e-9viA0oyyN0oz3AV0yR7Mb3lib7qf))
