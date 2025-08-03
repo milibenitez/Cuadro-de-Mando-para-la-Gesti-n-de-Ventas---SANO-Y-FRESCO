@@ -1,1 +1,1 @@
-# Cuadro-de-Mando-para-la-Gesti-n-de-Ventas---SANO-Y-FRESCO
+# Cuadro-de-Mando-para-la-GestiÓn-de-Ventas---SANO-Y-FRESCO
